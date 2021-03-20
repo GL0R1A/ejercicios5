@@ -1,0 +1,13 @@
+C:\Users\mita\Desktop\tarea ejemplo\bin\Debug\netcoreapp3.1\tarea ejemplo.exe
+C:\Users\mita\Desktop\tarea ejemplo\bin\Debug\netcoreapp3.1\tarea ejemplo.deps.json
+C:\Users\mita\Desktop\tarea ejemplo\bin\Debug\netcoreapp3.1\tarea ejemplo.runtimeconfig.json
+C:\Users\mita\Desktop\tarea ejemplo\bin\Debug\netcoreapp3.1\tarea ejemplo.runtimeconfig.dev.json
+C:\Users\mita\Desktop\tarea ejemplo\bin\Debug\netcoreapp3.1\tarea ejemplo.dll
+C:\Users\mita\Desktop\tarea ejemplo\bin\Debug\netcoreapp3.1\tarea ejemplo.pdb
+C:\Users\mita\Desktop\tarea ejemplo\obj\Debug\netcoreapp3.1\tarea ejemplo.csprojAssemblyReference.cache
+C:\Users\mita\Desktop\tarea ejemplo\obj\Debug\netcoreapp3.1\tarea ejemplo.AssemblyInfoInputs.cache
+C:\Users\mita\Desktop\tarea ejemplo\obj\Debug\netcoreapp3.1\tarea ejemplo.AssemblyInfo.cs
+C:\Users\mita\Desktop\tarea ejemplo\obj\Debug\netcoreapp3.1\tarea ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\mita\Desktop\tarea ejemplo\obj\Debug\netcoreapp3.1\tarea ejemplo.dll
+C:\Users\mita\Desktop\tarea ejemplo\obj\Debug\netcoreapp3.1\tarea ejemplo.pdb
+C:\Users\mita\Desktop\tarea ejemplo\obj\Debug\netcoreapp3.1\tarea ejemplo.genruntimeconfig.cache

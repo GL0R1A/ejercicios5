@@ -1,0 +1,13 @@
+C:\Users\mita\Desktop\segundo ejemplo\bin\Debug\netcoreapp3.1\segundo ejemplo.exe
+C:\Users\mita\Desktop\segundo ejemplo\bin\Debug\netcoreapp3.1\segundo ejemplo.deps.json
+C:\Users\mita\Desktop\segundo ejemplo\bin\Debug\netcoreapp3.1\segundo ejemplo.runtimeconfig.json
+C:\Users\mita\Desktop\segundo ejemplo\bin\Debug\netcoreapp3.1\segundo ejemplo.runtimeconfig.dev.json
+C:\Users\mita\Desktop\segundo ejemplo\bin\Debug\netcoreapp3.1\segundo ejemplo.dll
+C:\Users\mita\Desktop\segundo ejemplo\bin\Debug\netcoreapp3.1\segundo ejemplo.pdb
+C:\Users\mita\Desktop\segundo ejemplo\obj\Debug\netcoreapp3.1\segundo ejemplo.csprojAssemblyReference.cache
+C:\Users\mita\Desktop\segundo ejemplo\obj\Debug\netcoreapp3.1\segundo ejemplo.AssemblyInfoInputs.cache
+C:\Users\mita\Desktop\segundo ejemplo\obj\Debug\netcoreapp3.1\segundo ejemplo.AssemblyInfo.cs
+C:\Users\mita\Desktop\segundo ejemplo\obj\Debug\netcoreapp3.1\segundo ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\mita\Desktop\segundo ejemplo\obj\Debug\netcoreapp3.1\segundo ejemplo.dll
+C:\Users\mita\Desktop\segundo ejemplo\obj\Debug\netcoreapp3.1\segundo ejemplo.pdb
+C:\Users\mita\Desktop\segundo ejemplo\obj\Debug\netcoreapp3.1\segundo ejemplo.genruntimeconfig.cache
